@@ -2,7 +2,7 @@
 title: "Retrieve SSH Public Key From Private Key"
 date: 2020-04-02T18:36:44+08:00
 tags: [ssh, private-key, public-key, retrieval, restore]
-draft: true
+draft: false
 ---
 
 ```
